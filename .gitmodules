@@ -1,0 +1,3 @@
+[submodule "tools/AI-assistant"]
+	path = tools/AI-assistant
+	url = https://github.com/charroux/assistant-IA-projets.git
